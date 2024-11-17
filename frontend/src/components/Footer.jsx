@@ -12,7 +12,7 @@ const Footer = () => {
             Your one-stop destination for timeless fashion. Explore our exclusive collections crafted with care to bring you the best in style and quality. Shop with confidence, knowing that every piece is designed to last a lifetime. You can tweak it to better fit your branding tone!
             
             </p>
-            <b className='text-gray-800'>Developed By - Himanshu Pandey</b>
+            <b className='text-gray-800'>Developed By - Vaidehi Kumari</b>
         </div>
 
         <div>
@@ -29,7 +29,7 @@ const Footer = () => {
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-1 text-gray-600'>
                 <li>+1-212-456-7890</li>
-                <li>contact@himanshuproject07</li>
+                <li>Contact At-vaidehi.priya02@gmail.com</li>
             </ul>
         </div>
 
